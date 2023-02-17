@@ -1,0 +1,27 @@
+{
+  "name": "javafree-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javafree-cloud/javafree-blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javafree-cloud/javafree-blog/issues"
+  },
+  "homepage": "https://github.com/javafree-cloud/javafree-blog#readme",
+  "devDependencies": {
+    "sass": "^1.58.2",
+    "vitepress": "^1.0.0-alpha.46",
+    "vue": "^3.2.47"
+  }
+}
