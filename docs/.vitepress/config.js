@@ -3,7 +3,7 @@ module.exports = {
     description: 'JavaFree 是开箱即用的企业级应用开发框架',
     lang: 'zh-CN',
     // github pages 配置
-    base: '/javafree-blog/',
+    base: '/',
     head: [
         // 添加图标
         ['link', { rel: 'icon', href: '/logo.png' }]
